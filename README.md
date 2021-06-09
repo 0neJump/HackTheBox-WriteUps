@@ -10,3 +10,5 @@ HTB profile: [OneJump](https://app.hackthebox.eu/profile/463209)
 
 [Starting Point - ArcheType](/StartingPoint-ArcheType/README.md) - Missconfigured share, impacket mssqlclient and xp_cmdshell, priv esc with PS history.
 
+[Starting Point - Oopsie](/StartingPoint-Oopsie/README.md) - Web parameter tampering, unrestricted file upload, priv esc exploiting relative paths in SUID binary.
+
