@@ -1,6 +1,6 @@
 # HackTheBox-WriteUps
 
-WriteUps for some of the HackTheBox boxes I've done.
+WriteUps for some of the HackTheBox boxes I've done (level of detail depends on my mood at the time of doing the box).
 
 HTB profile: [OneJump](https://app.hackthebox.eu/profile/463209)
 
