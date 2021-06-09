@@ -12,3 +12,8 @@ HTB profile: [OneJump](https://app.hackthebox.eu/profile/463209)
 
 [Starting Point - Oopsie](/StartingPoint-Oopsie/README.md) - Web parameter tampering, unrestricted file upload, priv esc exploiting relative paths in SUID binary.
 
+### Easy
+
+### Medium
+
+### Hard
