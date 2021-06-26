@@ -107,7 +107,7 @@ We have access to the "tmp" share but there was nothing usefull in there either.
 ![](images/Pasted%20image%2020210621194445.png)
 This version os samba appears to be vulnerable to [CVE 2007-2447.](https://amriunix.com/post/cve-2007-2447-samba-usermap-script/)
 ## Exploit
-Avoiding the metasploit module that exist for this vuln, I found the following PoC in python. [exploit.py](https://github.com/amriunix/CVE-2007-2447/blob/master/usermap_script.py)
+Avoiding the metasploit module that exist for this vuln (OSCP prep and stuff), I found the following PoC in python. [exploit.py](https://github.com/amriunix/CVE-2007-2447/blob/master/usermap_script.py)
 
 ### Exploit code
 ```py
