@@ -14,6 +14,8 @@ HTB profile: [OneJump](https://app.hackthebox.eu/profile/463209)
 
 ### Easy
 
+[Lame](/Lame/readme.md) - Samba 3.0.20 vulnerable to CVE 2007-2447.
+
 ### Medium
 
 ### Hard
